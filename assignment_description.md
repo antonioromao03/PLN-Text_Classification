@@ -1,3 +1,5 @@
+# Assignment Description
+
 The aim of this assignment is to build NLP classifiers for a specific text classification task. For that, you may explore any of the techniques that we are exploring during the course, including pre-processing, feature extraction, and sparse vs dense feature representations (including word embeddings). In the scope of this first assignment, you can also use any "traditional" machine learning classifier, including Naive Bayes, Logistic Regression, Decision Trees, Random Forest, Support Vector Machine, Multi-Layer Perceptron, XGBoost, and so on. You may NOT use any deep learning architecture based on CNNs, RNNs, or Transformers.
 
 While developing your assignment, you are expected to:
